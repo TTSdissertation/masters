@@ -1,7 +1,7 @@
 # *****************************************************************************
 #  Modifications to the code that was published at
 #  https://github.com/NVIDIA/waveglow in train.py
-#  made by Josef Schlittenlacher and Laurel Ellis for master's project
+#  made by Josef Schlittenlacher 
 # *****************************************************************************
 
 # *****************************************************************************
