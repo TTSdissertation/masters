@@ -8,7 +8,7 @@
 """
 Created on Mon May 18 18:15:01 2020
 
-@author: js2251 and and Laurel Ellis for master's project
+@author: js2251 
 """
 
 import random
