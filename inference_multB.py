@@ -3,7 +3,7 @@
 Created on Wed Aug 26 18:00:24 2020
 
 @author: Antonia 
-Used by Dr. Josef Schlittenlacher and Laurel Ellis for master's project
+Used by Dr. Josef Schlittenlacher 
 """
 
 import numpy as np
